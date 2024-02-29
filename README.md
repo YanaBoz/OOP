@@ -54,4 +54,4 @@ Functions:
   Change elements with photo, description and rating of restarants/books/vines;
 
 V. Description of data models:
-Описание взаимосвязей в дивграмме ( практическое применение )
+
