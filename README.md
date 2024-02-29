@@ -17,7 +17,7 @@ III. Link, photo and attachment of the system’s class diagram:
 
 ![image](https://github.com/YanaBoz/OOP/assets/125998496/68583b91-5c1c-4fb5-a259-a4ed1de4d5c5)
 ![image](https://github.com/YanaBoz/OOP/assets/125998496/1f43c2b9-c2b1-4b35-8890-1a230d2bbb08)
-![image](https://github.com/YanaBoz/OOP/assets/125998496/314ee9cb-e40a-4896-9c62-9e49777d4696)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/64e53985-2447-489c-baed-bf29e8246c8a)
 ![image](https://github.com/YanaBoz/OOP/assets/125998496/579b1ba3-0e5a-48ae-bc43-348ead69d071)
 
 IV. List of functions of the application:
