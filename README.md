@@ -13,7 +13,8 @@ Yana Bozhko
 253504
 
 III. Link, photo and attachment of the system’s class diagram:
-Диаграмма 
+![image](https://github.com/YanaBoz/OOP/assets/125998496/68583b91-5c1c-4fb5-a259-a4ed1de4d5c5)
+
 
 IV. List of functions of the application:
 Main objects:
@@ -21,7 +22,8 @@ Main objects:
  Calendar
  Notes
  Review desk
- Возможности для автаризованного и нет пользлвателя(регистрация просмотр и тд)
+ Registration
+ (For those who registed, system save their information in system, so people have apportunity to use many accounts with different data.)
 Functions:
  List of screen-time
  ToDo rewiuv:
