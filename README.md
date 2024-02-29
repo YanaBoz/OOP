@@ -23,35 +23,35 @@ III. Link, photo and attachment of the system’s class diagram:
 IV. List of functions of the application:
 
 Main objects:
- ToDo list
- Calendar
- Notes
- Review desk
- Registration
+ ToDo list;
+ Calendar;
+ Notes;
+ Review desk;
+ Registration;
  (For those who registed, system save their information in system, so people have apportunity to use many accounts with different data.)
  
 Functions:
- List of screen-time
+ List of screen-time;
  
  ToDo rewiuv:
-  Add element
-  Delete element
-  Change element
+  Add element;
+  Delete element;
+  Change element;
   
  Calendar:
-  Rewiuv other years (you can see and change events and ToDo elements for future or past years)
-  Find necessary dates
-  Add events for days(example: birthdays)
+  Rewiuv other years (you can see and change events and ToDo elements for future or past years);
+  Find necessary dates;
+  Add events for days(example: birthdays);
   
  Notes:
-  Create and change notes in diary
-  Add notes to favorite
+  Create and change notes in diary;
+  Add notes to favorite;
   
  Rewiew desk:
-  Add elements with photo, description and rating of restarants/books/vines
-  Create folders of such elements
-  Delete elements with photo, description and rating of restarants/books/vines
-  Change elements with photo, description and rating of restarants/books/vines
+  Add elements with photo, description and rating of restarants/books/vines;
+  Create folders of such elements;
+  Delete elements with photo, description and rating of restarants/books/vines;
+  Change elements with photo, description and rating of restarants/books/vines;
 
 V. Description of data models:
 Описание взаимосвязей в дивграмме ( практическое применение )
