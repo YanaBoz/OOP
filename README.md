@@ -39,7 +39,7 @@ Functions:
   Change element;
   
  Calendar:
-  Rewiuv other years (you can see and change events and ToDo elements for future or past years);
+  Show other years (you can see and change events and ToDo elements for future or past years);
   Find necessary dates;
   Add events for days(example: birthdays);
   
