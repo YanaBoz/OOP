@@ -28,6 +28,7 @@ Main objects:
  Notes;
  Review desk;
  Registration;
+ QUIZ
  (For those who registed, system save their information in system, so people have apportunity to use many accounts with different data.)
  
 Functions:
@@ -55,3 +56,4 @@ Functions:
 
 V. Description of data models:
 
+![Uploading image.png…]()
