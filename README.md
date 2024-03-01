@@ -56,4 +56,5 @@ Functions:
 
 V. Description of data models:
 
-![Uploading image.png…]()
+![image](https://github.com/YanaBoz/OOP/assets/125998496/6e2e2ba2-72ee-4939-8b12-e151ea1436f8)
+
