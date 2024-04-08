@@ -58,3 +58,4 @@ V. Description of data models:
 
 ![image](https://github.com/YanaBoz/OOP/assets/125998496/50e1902c-d65e-44e6-a1a0-db76fb91c828)
 
+(интеграция с гугл календарь)
