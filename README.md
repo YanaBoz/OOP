@@ -15,29 +15,21 @@ Yana Bozhko
 
 III. Link, photo and attachment of the system’s class diagram:
 
-![image](https://github.com/YanaBoz/OOP/assets/125998496/68583b91-5c1c-4fb5-a259-a4ed1de4d5c5)
-![image](https://github.com/YanaBoz/OOP/assets/125998496/1f43c2b9-c2b1-4b35-8890-1a230d2bbb08)
-![image](https://github.com/YanaBoz/OOP/assets/125998496/64e53985-2447-489c-baed-bf29e8246c8a)
-![image](https://github.com/YanaBoz/OOP/assets/125998496/579b1ba3-0e5a-48ae-bc43-348ead69d071)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/f230d423-075b-4017-9418-a943af2d3957)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/c6b18654-5f2f-40bf-9483-d59f3c66b89c)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/f4371d50-6d4c-4d64-b3e1-0e13930ee5a8)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/40c94a40-0a9b-4d59-a4ed-559a380512d4)
+
+
 
 IV. List of functions of the application:
 
 Main objects:
- ToDo list;
  Calendar;
  Notes;
- Review desk;
  Registration;
- QUIZ
- (For those who registed, system save their information in system, so people have apportunity to use many accounts with different data.)
  
 Functions:
- List of screen-time;
- 
- ToDo rewiuv:
-  Add element;
-  Delete element;
-  Change element;
   
  Calendar:
   Show other years (you can see and change events and ToDo elements for future or past years);
@@ -47,15 +39,11 @@ Functions:
  Notes:
   Create and change notes in diary;
   Add notes to favorite;
-  
- Rewiew desk:
-  Add elements with photo, description and rating of restarants/books/vines;
-  Create folders of such elements;
-  Delete elements with photo, description and rating of restarants/books/vines;
-  Change elements with photo, description and rating of restarants/books/vines;
 
 V. Description of data models:
 
-![image](https://github.com/YanaBoz/OOP/assets/125998496/50e1902c-d65e-44e6-a1a0-db76fb91c828)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/ac438a8e-f5e5-421b-827f-4729dfa19137)
+
+
 
 (интеграция с гугл календарь)
