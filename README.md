@@ -15,10 +15,11 @@ Yana Bozhko
 
 III. Link, photo and attachment of the system’s class diagram:
 
-![image](https://github.com/YanaBoz/OOP/assets/125998496/f230d423-075b-4017-9418-a943af2d3957)
-![image](https://github.com/YanaBoz/OOP/assets/125998496/c6b18654-5f2f-40bf-9483-d59f3c66b89c)
-![image](https://github.com/YanaBoz/OOP/assets/125998496/f4371d50-6d4c-4d64-b3e1-0e13930ee5a8)
-![image](https://github.com/YanaBoz/OOP/assets/125998496/40c94a40-0a9b-4d59-a4ed-559a380512d4)
+
+![image](https://github.com/YanaBoz/OOP/assets/125998496/0c57a5bc-058f-43d4-baf5-7655a0d8a3eb)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/8f40888c-3214-404d-b895-06866002a605)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/eae93aa2-f4b9-4264-894f-6bf3f1882704)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/e30a7458-a1fa-4b13-9d95-ae88cd00496d)
 
 
 
@@ -43,6 +44,7 @@ Functions:
 V. Description of data models:
 
 ![image](https://github.com/YanaBoz/OOP/assets/125998496/ac438a8e-f5e5-421b-827f-4729dfa19137)
+![image](https://github.com/YanaBoz/OOP/assets/125998496/9db9092c-b4fb-4984-97e3-5eea7109df33)
 
 
 
